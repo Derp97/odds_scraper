@@ -4,7 +4,11 @@ This Python script is designed for scraping sports betting data from the Bwin we
 
 ## Results
 
-This is currently being ran on a RaspberryPi Model 4 every * */2 * * *
+This is currently being ran on a RaspberryPi Model 4 every
+
+0 */2 * * *
+
+(once every second hour)
 
 The outputted JSON can be found here:
 
